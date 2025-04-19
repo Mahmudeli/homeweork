@@ -1,4 +1,5 @@
-# ![Логотип NeuroStartUp](img/NeuroStartUpIcon.png) NeuroStartUp
+# NeuroStartUp
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
 
